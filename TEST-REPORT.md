@@ -102,5 +102,3 @@ The application provides appropriate feedback where required and does not crash 
 The major application features, UI components, frontend-backend integration, forms, navigation, and CRUD operations were tested.
 
 **Overall Result: PASS**
-
-The application is ready for submission.

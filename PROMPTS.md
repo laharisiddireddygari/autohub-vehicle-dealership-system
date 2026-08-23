@@ -6,9 +6,6 @@ Build a full-stack car dealership management system. I need a frontend and backe
 
 Create the frontend with a modern car dealership dashboard design. I want a sidebar, top navigation bar, dashboard cards, tables, buttons, forms, and proper spacing. Make the UI look professional and consistent across all pages.
 
-# Match Reference Screenshots
-
-I want the application UI to closely match the screenshots I provided. Use the same overall layout, spacing, typography, card style, navigation structure, colors, buttons, and visual hierarchy. Do not create a completely different design.
 
 # Dashboard
 
@@ -50,10 +47,3 @@ Create a settings page with a clean professional layout. Keep the same sidebar, 
 
 Test the complete application. Check the major frontend pages, forms, navigation, vehicle management, customer management, backend API operations, and error handling. Identify and fix any issues you find.
 
-# GitHub Submission
-
-Prepare the project for GitHub submission. Organize the project into separate frontend and backend folders and keep the application screenshots and documentation organized. Make sure unnecessary generated files are not included in the repository.
-
-# Final Review
-
-Do a final review of the project. Check that the frontend, backend, UI, API functionality, navigation, forms, and major user flows are working correctly. Fix any remaining issues and make the project ready for submission.
