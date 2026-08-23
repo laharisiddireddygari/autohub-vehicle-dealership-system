@@ -23,7 +23,7 @@
       "userId": 1787463423472
     },
     {
-      "token": "9f3a79891dedf31d0e6672c9f9394d890ad7ee93189f8a77ad590f8d977351e2",
+      "token": "8f3c8d8923fac901eb87627bbfb69e77f24cc295adfe4bcf9aaed3f86e6ce0d6",
       "userId": 1787463521336
     }
   ],
@@ -37,7 +37,7 @@
       "mileage": "0 mi",
       "fuel": "Petrol",
       "color": "Black",
-      "image": "https://images.unsplash.com/photo-1494976388531-d1058494cdd8?auto=format&fit=crop&w=900&q=85",
+      "image": "https://www.v3cars.com/media/model-imgs/1708511310-01-hycross-front-exterior.webp",
       "id": 1787463707589
     },
     {
@@ -50,7 +50,7 @@
       "mileage": "12 km",
       "fuel": "Petrol",
       "color": "Midnight Black",
-      "image": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=900&q=85"
+      "image": "https://stimg.cardekho.com/images/carexteriorimages/930x620/Mahindra/XUV700/10787/1705466588115/front-view-118.jpg?impolicy=resize&imwidth=890"
     },
     {
       "id": 2,
@@ -86,10 +86,18 @@
       "mileage": "72 km",
       "fuel": "Hybrid",
       "color": "Polar White",
-      "image": "https://images.unsplash.com/photo-1514316454349-750a7fd3da3a?auto=format&fit=crop&w=900&q=85"
+      "image": "https://vehicle-images.carscommerce.inc/e0cf-11001117/4JGFB4GB4SB384242/a4c1e136458802e4917bc70ad9018753.jpg"
     }
   ],
   "customers": [
+    {
+      "name": "lahari",
+      "email": "reddylahari769@gmail.com",
+      "phone": "9876543210",
+      "deals": 0,
+      "status": "Lead",
+      "id": 1787466681524
+    },
     {
       "id": 1,
       "name": "Aarav Sharma",
@@ -124,6 +132,14 @@
     }
   ],
   "deals": [
+    {
+      "customer": "lahari",
+      "vehicle": "toyota",
+      "amount": 2300000,
+      "stage": "Test Drive",
+      "updated": "Just now",
+      "id": 1787467348807
+    },
     {
       "id": "DL-1048",
       "customer": "Aarav Sharma",
